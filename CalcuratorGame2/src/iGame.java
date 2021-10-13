@@ -8,6 +8,8 @@ public interface iGame {
 		public String getQuizMsg();
 		
 		public boolean checkAnswer(double answer);
+
+		
 	
 	
 
